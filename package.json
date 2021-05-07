@@ -1,10 +1,14 @@
 {
-  "name": "express-app",
+  "name": "express-app-api",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "nodemon ./index.js --exec babel-node -e js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheeseBurger7/express-app-api.git"
   },
   "author": "Meet Rachhadia",
   "license": "ISC",
